@@ -49,7 +49,7 @@ Provides a high-level view of business performance, including:
 - Revenue contribution by product category
 - Payment method distribution
 
-![Executive Dashboard](dashboard/dashboard_1_executive.png)
+![Executive Dashboard](dashboards/dashboard_1_executive.png)
 
 ---
 
@@ -60,7 +60,7 @@ Focuses on product-level performance:
 - Average customer ratings by category
 - Drill-down analysis using city-level filters
 
-![Product Dashboard](dashboard/dashboard_2_profitability.png)
+![Product Dashboard](dashboards/dashboard_2_profitability.png)
 
 ---
 
@@ -71,7 +71,7 @@ Analyzes operational efficiency and branch performance:
 - Busiest day per branch based on transactions
 - Branch performance benchmarked against company average using DAX
 
-![Operations Dashboard](dashboard/dashboard_3_operations.png)
+![Operations Dashboard](dashboards/dashboard_3_operations.png)
 
 ---
 
